@@ -1,4 +1,4 @@
 # My very first website
-Welocom: [Code initute](https://codeinstitute.net/se/)
+Welocom: [Code institute](https://codeinstitute.net/se/)
 
 
